@@ -2,7 +2,7 @@
 
 Confidentiality and security in the order of things
 
-![Ramana](https://github.com/iyamk/Ramana_Browser/blob/main/src/Ramana.jpg?raw=1){width=30%}
+![Ramana](https://github.com/iyamk/Ramana_Browser/blob/main/src/Ramana.jpg?raw=1){width=100px height=100px}
 
 And the Ramana Maharshi will illuminate us and shows the light to us in this darkness! The only spiritual browser for those who are looking for light
 
